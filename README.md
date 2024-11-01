@@ -14,8 +14,8 @@ LINQ (Language Integrated Query) is a feature in C# and other .NET languages tha
 
 ## Team Members
 
-- **Tran Nhat Tan** – Presentation Lead, LINQ Concepts and Syntax
-- **To Vinh Tien** – Seminar Host, Demonstrations, and Practical Applications
+- **Tran Nhat Tan** – 22521312
+- **To Vinh Tien** – 22521474
 
 ## Seminar Goals
 
